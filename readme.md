@@ -1,0 +1,3 @@
+Program ten został wykonany jako projekt na uczelni. Jego głównym zadaniem jest komunikacja pomiędzy klientem, a serwerem nadzorcy i kontrolowaniu czy komunikacja zachodzi prawidłowo (sprawdzanie, czy klient bądź serwer nadzorcy odpowiada tj. działa). Ponadto przy pierwszym połączeniu klient wysyła do serwera swoje parametry: CPU, RAM, listę kilkunastu najbardziej zasobożernych procesów.
+
+This program was made as an academic project. Its main purpose is to provide client-supervisory server communitaction in order to control the status of each one and check whether it is working (responding) or not. Moreover during initial connection client sends to supervisory server its parameters: CPU, RAM and list of several most resource-using processes.
